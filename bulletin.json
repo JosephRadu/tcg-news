@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "date": "NOV 11, 2026",
+      "title": "WELCOME TO THE TCG TABLET",
+      "body": "This is a work in progress. Cards, balance and menus are changing all the time, so expect rough edges."
+    }
+  ],
+  "changelog": [
+    {
+      "date": "NOV 11, 2026",
+      "title": "NEW MAIN MENU",
+      "body": "New home screen with a boot splash, a map backdrop and a bulletin board.\nMenu music now has a clear and a muffled mix that fades between screens."
+    }
+  ]
+}
