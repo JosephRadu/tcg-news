@@ -1,16 +1,14 @@
 {
-  "news": [
-    {
-      "date": "NOV 11, 2026",
-      "title": "WELCOME TO THE TCG TABLET",
-      "body": "This is a work in progress. Cards, balance and menus are changing all the time, so expect rough edges."
-    }
-  ],
   "changelog": [
     {
-      "date": "NOV 11, 2026",
-      "title": "TEST TEST TEST",
-      "body": "New home screen with a boot splash, a map backdrop and a bulletin board.\nMenu music now has a clear and a muffled mix that fades between screens."
+      "date": "NOV 15, 2026",
+      "title": "MY DECK, REMANTLER AND SMELTER",
+      "body": "My Deck now groups your cards into Units, Spells and Trinkets and shows six cards to a row. Bars under IN YOUR DECK show how full your deck and trinkets are, and the tab counts now count every copy.\nA hint along the bottom explains it: click a card to move one copy between your deck and storage, right-click to inspect it.\nThe Remantler and Smelter also show six cards to a row."
+    },
+    {
+      "date": "NOV 15, 2026",
+      "title": "MENU TIDY-UP",
+      "body": "Every section of the menu now has its own colour, and tabs, buttons and pop-ups look the same on every page. Buttons that move you on are green, and buttons that delete something are red.\nOptions and Profile now have a background, and the panels on the Multiplayer pages now show properly over their background picture.\nReplay Tutorial is now on the Profile > Stats page. The Missions page no longer shows a note about runs, which gives the missions more room."
     }
   ]
 }
