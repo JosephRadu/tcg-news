@@ -1,6 +1,36 @@
 {
   "changelog": [
     {
+      "date": "NOV 22, 2026",
+      "title": "NEW SYNERGIES",
+      "body": "Spiked Carapace now hits back with 15 melee damage, and the host's on-hit trinkets (Flame, Poison, Shock...) land on whoever attacked it.\nShatter now deals its bonus damage to cards with 10 or more Frost, not only to Frozen cards."
+    },
+    {
+      "date": "NOV 22, 2026",
+      "title": "CLEARER AT LOWER RESOLUTIONS",
+      "body": "Cards, tablet screens and text on the table now look sharper and easier to read at lower screen resolutions."
+    },
+    {
+      "date": "NOV 22, 2026",
+      "title": "BOT AND STARTER PACK CHANGES",
+      "body": "Bots no longer get a free summon now and then. They are given a Reinforcements card instead.\nThe first and final starter packs of the campaign have been rebalanced."
+    },
+    {
+      "date": "NOV 21, 2026",
+      "title": "SHOP AND BOOSTER PACK ANIMATIONS",
+      "body": "Buying from the shop and opening booster packs now play new animations and card glow effects."
+    },
+    {
+      "date": "NOV 21, 2026",
+      "title": "STORY EXPANSION",
+      "body": "The story continues with a new act, new side missions and a lot more dialogue. The Lore tab has been rewritten to match.\nThe campaign map and battle scenes have also had some changes."
+    },
+    {
+      "date": "NOV 21, 2026",
+      "title": "PERFORMANCE",
+      "body": "Battles run smoother, especially with lots of cards, glows and status effects on the table."
+    },
+    {
       "date": "NOV 15, 2026",
       "title": "MY DECK, REMANTLER AND SMELTER",
       "body": "My Deck now groups your cards into Units, Spells and Trinkets and shows six cards to a row. Bars under IN YOUR DECK show how full your deck and trinkets are, and the tab counts now count every copy.\nA hint along the bottom explains it: click a card to move one copy between your deck and storage, right-click to inspect it.\nThe Remantler and Smelter also show six cards to a row."
